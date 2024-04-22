@@ -2,8 +2,12 @@
 <h3 align="center">👩🏻‍💻Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SatyaPriyaAmbati&label=Profile%20views&color=0e75b6&style=flat" alt="SatyaPriyaAmbati" /> </p>
 <p align="right" class="fade-in">
-  <img src="coding.png" alt="Coding" />
+  <video width="320" height="240" controls>
+    <source src="https://github.com/SatyaPriyaAmbati/SatyaPriyaAmbati/raw/main/GIF.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 
 - 👀 Currently looking full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
