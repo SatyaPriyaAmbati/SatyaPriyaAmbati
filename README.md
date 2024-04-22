@@ -1,6 +1,10 @@
 <h1 align="center">Hi Everyone👋, I'm Satya Priya Ambati</h1>
 <h3 align="center">👩🏻‍💻Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SatyaPriyaAmbati&label=Profile%20views&color=0e75b6&style=flat" alt="SatyaPriyaAmbati" /> </p>
+<p align="right" class="fade-in">
+  <img src="coding.png" alt="Coding" />
+</p>
+
 
 - 👀 Currently looking full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
 - 🤝 Open to work as Full-Stack Developer , Front end Developer, Backend Developer,Junior Full Stack Developer,Entry level software Engineer.
