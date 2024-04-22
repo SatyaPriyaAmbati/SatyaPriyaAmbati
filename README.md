@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<h1 align="center">Hey Everyone 👋, I'm Satya Priya Ambati</h1>
+<div align="center"> <img src="Fullstackdeveloper.jpg"> </div>
+<h3 align="center">Full-Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <!--
 **SatyaPriyaAmbati/SatyaPriyaAmbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
