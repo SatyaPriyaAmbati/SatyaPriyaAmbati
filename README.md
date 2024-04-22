@@ -2,10 +2,8 @@
 <h3 align="center">👩🏻‍💻Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SatyaPriyaAmbati&label=Profile%20views&color=0e75b6&style=flat" alt="SatyaPriyaAmbati" /> </p>
 <p align="right" class="fade-in">
-  <iframe width="560" height="315" src="https://username.github.io/repository/filename.mp4" frameborder="0" allowfullscreen></iframe>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM3eW9uam8yeG12bDNhZXhnbWxmMXNxdnZzbGFiY3FiYWF0Z3d1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text">
 </p>
-
-
 
 - 👀 Currently looking full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
 - 🤝 Open to work as Full-Stack Developer , Front end Developer, Backend Developer,Junior Full Stack Developer,Entry level software Engineer.
