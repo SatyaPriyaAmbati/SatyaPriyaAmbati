@@ -1,10 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Satya+Priya+Ambati;" />
+  
 </h1>
-<div align="center" style="display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines" alt="Typing SVG" style="display: inline-block;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
-</div>
 
 <br/>
 <h3 align="center">👩🏻‍💻Full Stack Developer</h3>
@@ -13,6 +10,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM3eW9uam8yeG12bDNhZXhnbWxmMXNxdnZzbGFiY3FiYWF0Z3d1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text">
 </p>
 
+## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
 - 👀 Currently looking full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
 - 🤝 Open to work as Full-Stack Developer , Front end Developer, Backend Developer,Entry level software Engineer, Java Developer.
 - 🔭 I completed my Master's degree in Computer Science from Kennesaw State University. 
@@ -31,8 +29,12 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,dotnet,spring,springboot,microservices" /><br>
+</div>
+
 </div>
 
 <br/>
